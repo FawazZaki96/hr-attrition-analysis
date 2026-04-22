@@ -12,6 +12,26 @@ The goal is to provide **data-driven insights and actionable recommendations** t
 
 ---
 
+## 📸 Dashboard Overview
+
+### 🔹 1. Overview Dashboard
+
+![Overview](images/01_overview.png)
+
+### 🔹 2. Who is Leaving
+
+![Who is Leaving](images/02_who_is_leaving.png)
+
+### 🔹 3. Where Are They Leaving
+
+![Where Are They](images/03_where_are_they.png)
+
+### 🔹 4. Why Employees Leave
+
+![Why They Leave](images/04_why_they_leave.png)
+
+---
+
 ## 🎯 Business Problem
 
 Employee attrition leads to:
