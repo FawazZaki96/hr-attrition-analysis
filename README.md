@@ -117,10 +117,3 @@ This project demonstrates:
 * Data-driven decision making
 * Segmentation and root cause analysis
 * Dashboard design for stakeholders
-
----
-
-## 📌 Author
-
-**[Your Name]**
-Aspiring Business Analyst
